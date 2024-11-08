@@ -11,6 +11,7 @@ The submitted data from the form is then saved into a json file named products.j
 Below the form is a table that lists every product as a row and is ordered with the recently added products as first. 
 
 The row has three extra columns namely:
+
     - Date submitted: timestamp when added
     - Total value: Quantity * Price
     - Action: for editing a specific record
